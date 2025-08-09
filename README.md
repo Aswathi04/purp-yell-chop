@@ -1,7 +1,7 @@
  <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Write it out 🎯
 
 
 ## Basic Details
@@ -16,26 +16,28 @@ You get it out, we smash it out of the park. Nothing is saved, no looking backs.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- TypeScript, JavaScript, HTML, CSS
+- React 18.3.1, Vite
+-Tailwind CSS for styling
+shadcn/ui component library
+React Router DOM for navigation
+Lucide React for icons
+Supabase (available for backend features)
+- Vite for build tooling
+ESLint for code linting
+PostCSS for CSS processing
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+
 
 # Run
 [commands]
 
 ### Project Documentation
 For Software:
+
 
 
 
