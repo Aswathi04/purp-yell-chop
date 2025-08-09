@@ -8,7 +8,7 @@ const Index = () => {
     <div className="min-h-screen bg-gradient-hero">
       <div className="container mx-auto px-4 py-12">
         <div className="text-center mb-12">
-          <h1 className="text-4xl md:text-5xl font-bold text-primary mb-8 animate-fade-in">
+          <h1 className="text-4xl md:text-5xl font-bold text-primary-foreground mb-8 animate-fade-in">
             Write it out and get it out of your system
           </h1>
         </div>
