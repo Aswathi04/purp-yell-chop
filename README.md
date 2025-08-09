@@ -1,73 +1,92 @@
-# Welcome to your Lovable project
+ <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
-## Project info
 
-**URL**: https://lovable.dev/projects/bf7949a9-ce36-442e-a079-15af3c6e6ff9
+# [Project Name] 🎯
 
-## How can I edit this code?
 
-There are several ways of editing your application.
+## Basic Details
+### Team Name: Aswathi Thummarukudy's Team
 
-**Use Lovable**
+### Project Description
+A website where you can write your emotions out of your system but won't let you reminisce them cause it will be gone before you know it!
+### The Problem (that doesn't exist)
+The need to write my frustrations out without having to worry about my sane version reading about it later on and then feeling guilty for being mean.
+### The Solution (that nobody asked for)
+You get it out, we smash it out of the park. Nothing is saved, no looking backs.
+## Technical Details
+### Technologies/Components Used
+For Software:
+- [Languages used]
+- [Frameworks used]
+- [Libraries used]
+- [Tools used]
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bf7949a9-ce36-442e-a079-15af3c6e6ff9) and start prompting.
+For Hardware:
+- [List main components]
+- [List specifications]
+- [List tools required]
 
-Changes made via Lovable will be committed automatically to this repo.
+### Implementation
+For Software:
+# Installation
+[commands]
 
-**Use your preferred IDE**
+# Run
+[commands]
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Project Documentation
+For Software:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+# Screenshots (Add at least 3)
+![Screenshot1](Add screenshot 1 here with proper name)
+*Add caption explaining what this shows*
 
-Follow these steps:
+![Screenshot2](Add screenshot 2 here with proper name)
+*Add caption explaining what this shows*
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+![Screenshot3](Add screenshot 3 here with proper name)
+*Add caption explaining what this shows*
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Diagrams
+![Workflow](Add your workflow/architecture diagram here)
+*Add caption explaining your workflow*
 
-# Step 3: Install the necessary dependencies.
-npm i
+For Hardware:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+# Schematic & Circuit
+![Circuit](Add your circuit diagram here)
+*Add caption explaining connections*
 
-**Edit a file directly in GitHub**
+![Schematic](Add your schematic diagram here)
+*Add caption explaining the schematic*
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+# Build Photos
+![Components](Add photo of your components here)
+*List out all components shown*
 
-**Use GitHub Codespaces**
+![Build](Add photos of build process here)
+*Explain the build steps*
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+![Final](Add photo of final product here)
+*Explain the final build*
 
-## What technologies are used for this project?
+### Project Demo
+# Video
+[Add your demo video link here]
+*Explain what the video demonstrates*
 
-This project is built with:
+# Additional Demos
+[Add any extra demo materials/links]
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## Team Contributions
+- [Name 1]: [Specific contributions]
+- [Name 2]: [Specific contributions]
+- [Name 3]: [Specific contributions]
 
-## How can I deploy this project?
+---
+Made with ❤️ at TinkerHub Useless Projects 
 
-Simply open [Lovable](https://lovable.dev/projects/bf7949a9-ce36-442e-a079-15af3c6e6ff9) and click on Share -> Publish.
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
 
-## Can I connect a custom domain to my Lovable project?
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
