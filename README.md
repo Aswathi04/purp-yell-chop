@@ -27,6 +27,8 @@ Supabase (available for backend features)
 ESLint for code linting
 PostCSS for CSS processing
 
+<img width="1794" height="813" alt="image" src="https://github.com/user-attachments/assets/a6fb94ba-0a0a-4fdf-afdf-822f5203a12b" />
+
 ### ImplementatioN
 
 
