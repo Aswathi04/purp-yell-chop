@@ -33,8 +33,8 @@ PostCSS for CSS processing
 
 
 # Run
-purp-yell-chop.lovable.app
 
+https://purp-yell-chop.lovable.app/
 
 
 
